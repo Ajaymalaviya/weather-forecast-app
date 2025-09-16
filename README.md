@@ -2,7 +2,7 @@
 
 A simple, clean, and modern desktop weather application built with Python and CustomTkinter. This application allows users to fetch and display the current weather conditions for any city around the world.
 
-![App Screenshot](./screenshot.pn)
+![App Screenshot](./apss.png)
 *(Note: You should replace `screenshot.png` with an actual screenshot of your application.)*
 
 ## Description

